@@ -1,0 +1,7 @@
+D:\215 Dolomanji\ConsoleApp228\obj\Debug\ConsoleApp228.csproj.AssemblyReference.cache
+D:\215 Dolomanji\ConsoleApp228\obj\Debug\ConsoleApp228.csproj.CoreCompileInputs.cache
+D:\215 Dolomanji\ConsoleApp228\bin\Debug\ConsoleApp228.exe.config
+D:\215 Dolomanji\ConsoleApp228\bin\Debug\ConsoleApp228.exe
+D:\215 Dolomanji\ConsoleApp228\bin\Debug\ConsoleApp228.pdb
+D:\215 Dolomanji\ConsoleApp228\obj\Debug\ConsoleApp228.exe
+D:\215 Dolomanji\ConsoleApp228\obj\Debug\ConsoleApp228.pdb
